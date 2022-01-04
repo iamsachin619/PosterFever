@@ -2,6 +2,8 @@
 
 PosterFever is an ecommerce website to sell posters. It is made using React JS framework and for the Back End is powered by Firebase and NodeJS. 
 
+Please visit: https://posterfever.in
+
 ## Features
 - Wishlist
 - Authentication using Google and Email
